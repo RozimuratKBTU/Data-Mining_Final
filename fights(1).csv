@@ -1,0 +1,126 @@
+fight_id;fight_name;event;weight_class;scheduled_rounds;finish_type;round_finish
+1;Adesanya VS Yoel Romero;UFC 248;middleweight;5;decision;0
+2;Conor McGregor VS Jose Aldo;UFC 194;lightweight;5;KO/TKO;1
+3;Conor McGregor vs Nate Diaz 2;UFC 202: Diaz vs McGregor 2;welterweight;5;decision;0
+4;Anthony Johnson vs Glover Teixeira;UFC 202: Diaz vs McGregor 2;light heavyweight;3;KO/TKO;1
+5;Donald Cerrone vs Rick Story;UFC 202: Diaz vs McGregor 2;welterweight;3;decision;0
+6;Hyun Gyu Lim vs Mike Perry;UFC 202: Diaz vs McGregor 2;welterweight;3;KO/TKO;1
+7;Tim Means vs Sabah Homasi;UFC 202: Diaz vs McGregor 2;welterweight;3;KO/TKO;1
+8;Brian Kelleher vs Iuri Alcântara;UFC 212: Aldo vs Holloway;bantamweight;3;submission;1
+9;Matthew Lopez vs Johnny Eduardo;UFC 212: Aldo vs Holloway;bantamweight;3;submission;2
+10;Antônio Carlos Júnior vs Eric Spicely;UFC 212: Aldo vs Holloway;middleweight;3;submission;3
+11;Raphael Assunção vs Marlon Moraes;UFC 212: Aldo vs Holloway;bantamweight;3;decision;0
+12;Yancy Medeiros vs Erick Silva;UFC 212: Aldo vs Holloway;welterweight;3;KO/TKO;2
+13;Paulo Costa vs Oluwale Bamgbose;UFC 212: Aldo vs Holloway;middleweight;3;KO/TKO;2
+14;Vitor Belfort vs Nate Marquardt;UFC 212: Aldo vs Holloway;middleweight;3;KO/TKO;1
+15;Cláudia Gadelha vs Karolina Kowalkiewicz;UFC 212: Aldo vs Holloway;strawweight;3;decision;0
+16;Max Holloway vs José Aldo;UFC 212: Aldo vs Holloway;featherweight;5;KO/TKO;3
+17;Leon Edwards vs Colby Covington;UFC 296;welterweight;5;decision;0
+18;Alex Pereira vs Jiri Prochazka;UFC 295;light heavyweight;5;KO/TKO;2
+19;Sean Strickland vs Dricus Du Plessis;UFC 297;middleweight;5;decision;0
+20;Ilia Topuria vs Alexander Volkanovski;UFC 298;featherweight;5;KO/TKO;2
+21;Jon Jones vs Ciryl Gane;UFC 285;heavyweight;5;submission;1
+22;Alex Pereira vs Jamahal Hill;UFC 300;light heavyweight;5;KO/TKO;1
+23;Max Holloway vs Justin Gaethje;UFC 300;lightweight;5;KO/TKO;5
+24;Charles Oliveira vs Beneil Dariush;UFC 289;lightweight;3;KO/TKO;1
+25;Dustin Poirier vs Michael Chandler;UFC 281;lightweight;3;submission;3
+26;Sean OMalley vs Aljamain Sterling;UFC 292;bantamweight;5;KO/TKO;2
+27;Israel Adesanya vs Alex Pereira;UFC 281;middleweight;5;KO/TKO;5
+28;Francis Ngannou vs Stipe Miocic;UFC 220;heavyweight;5;KO/TKO;1
+29;Khabib Nurmagomedov vs Conor McGregor;UFC 229;lightweight;5;submission;4
+30;Georges St-Pierre vs Michael Bisping;UFC 217;middleweight;5;submission;3
+31;Anderson Silva vs Chael Sonnen;UFC 117;middleweight;5;submission;5
+32;Robbie Lawler vs Rory MacDonald;UFC 189;welterweight;5;KO/TKO;5
+33;Daniel Cormier vs Stipe Miocic;UFC 226;heavyweight;5;KO/TKO;4
+34;Jose Aldo vs Conor McGregor;UFC 194;featherweight;5;KO/TKO;1
+35;Henry Cejudo vs Demetrious Johnson;UFC 227;flyweight;5;decision;0
+36;Valentina Shevchenko vs Alexa Grasso;UFC 285;women_flyweight;5;submission;4
+37;Weili Zhang vs Joanna Jedrzejczyk;UFC 248;women_strawweight;5;decision;0
+38;Israel Adesanya vs Kelvin Gastelum;UFC 236;middleweight;5;decision;0
+39;Leon Edwards vs Kamaru Usman;UFC 286;welterweight;5;decision;0
+40;Alexander Volkanovski vs Max Holloway;UFC 276;featherweight;5;decision;0
+41;Chris Weidman vs Anderson Silva;UFC 162;middleweight;5;KO/TKO;2
+42;Brock Lesnar vs Randy Couture;UFC 91;heavyweight;5;KO/TKO;2
+43;TJ Dillashaw vs Cody Garbrandt;UFC 217;bantamweight;5;KO/TKO;2
+44;Conor McGregor vs Nate Diaz;UFC 202;welterweight;5;decision;0
+45;Nate Diaz vs Jorge Masvidal;UFC 244;welterweight;5;KO/TKO;3
+46;Jan Blachowicz vs Israel Adesanya;UFC 259;light heavyweight;5;decision;0
+47;Aljamain Sterling vs Petr Yan;UFC 273;bantamweight;5;decision;0
+48;Colby Covington vs Kamaru Usman;UFC 268;welterweight;5;decision;0
+49;Justin Gaethje vs Tony Ferguson;UFC 249;lightweight;5;KO/TKO;5
+50;Robert Whittaker vs Yoel Romero;UFC 225;middleweight;5;decision;0
+51;Michael Bisping vs Luke Rockhold;UFC 199;middleweight;5;KO/TKO;1
+52;Demetrious Johnson vs Henry Cejudo;UFC 197;flyweight;5;decision;0
+53;Stipe Miocic vs Daniel Cormier;UFC 241;heavyweight;5;KO/TKO;4
+54;Max Holloway vs Frankie Edgar;UFC 240;featherweight;5;KO/TKO;1
+55;Sean OMalley vs Marlon Vera;UFC 299;bantamweight;5;decision;0
+56;Leon Edwards vs Nate Diaz;UFC 263;welterweight;5;decision;0
+57;Kamaru Usman vs Gilbert Burns;UFC 258;welterweight;5;KO/TKO;3
+58;Israel Adesanya vs Robert Whittaker;UFC 271;middleweight;5;decision;0
+59;Dricus Du Plessis vs Sean Strickland;UFC 297;middleweight;5;decision;0
+60;Alex Volkanovski vs Yair Rodriguez;UFC 290;featherweight;5;KO/TKO;3
+61;Brandon Moreno vs Deiveson Figueiredo;UFC 283;flyweight;5;submission;3
+62;Aljamain Sterling vs TJ Dillashaw;UFC 280;bantamweight;5;KO/TKO;2
+63;Charles Oliveira vs Islam Makhachev;UFC 280;lightweight;5;submission;2
+64;Petr Yan vs Sean OMalley;UFC 280;bantamweight;3;decision;0
+65;Belal Muhammad vs Gilbert Burns;UFC 288;welterweight;5;KO/TKO;2
+66;Tom Aspinall vs Sergei Pavlovich;UFC 295;heavyweight;5;KO/TKO;1
+67;Jon Jones vs Alexander Gustafsson;UFC 232;light heavyweight;5;KO/TKO;3
+68;Max Holloway vs Calvin Kattar;UFC on ABC 1;featherweight;5;KO/TKO;5
+69;Justin Gaethje vs Michael Johnson;UFC on FOX 7;lightweight;3;KO/TKO;2
+70;Robert Whittaker vs Jared Cannonier;UFC 271;middleweight;5;decision;0
+71;Paulo Costa vs Yoel Romero;UFC 241;middleweight;3;decision;0
+72;Dan Hooker vs Paul Felder;UFC on ESPN 4;lightweight;5;decision;0
+73;Kevin Holland vs Ronaldo Souza;UFC 256;middleweight;3;KO/TKO;1
+74;Glover Teixeira vs Jan Blachowicz;UFC 267;light heavyweight;5;submission;2
+75;Jiri Prochazka vs Glover Teixeira;UFC 275;light heavyweight;5;submission;5
+76;Stipe Miocic vs Junior Dos Santos;UFC on FOX 13;heavyweight;5;KO/TKO;1
+77;Cain Velasquez vs Brock Lesnar;UFC 121;heavyweight;5;KO/TKO;1
+78;Ronda Rousey vs Holly Holm;UFC 193;women_bantamweight;5;KO/TKO;2
+79;Amanda Nunes vs Cris Cyborg;UFC 232;women_featherweight;5;KO/TKO;1
+80;Joanna Jedrzejczyk vs Rose Namajunas;UFC 217;women_strawweight;5;KO/TKO;1
+81;Rose Namajunas vs Zhang Weili;UFC 261;women_strawweight;5;KO/TKO;1
+82;Weili Zhang vs Carla Esparza;UFC 281;women_strawweight;5;submission;2
+83;Valentina Shevchenko vs Taila Santos;UFC 275;women_flyweight;5;decision;0
+84;Israel Adesanya vs Marvin Vettori;UFC 263;middleweight;5;decision;0
+85;Dustin Poirier vs Dan Hooker;UFC on ESPN 12;lightweight;5;decision;0
+86;Justin Gaethje vs Edson Barboza;UFC on FOX 11;lightweight;3;KO/TKO;3
+87;Tony Ferguson vs Rafael dos Anjos;UFC Fight Night 98;lightweight;5;decision;0
+88;Beneil Dariush vs Mateusz Gamrot;UFC 280;lightweight;3;decision;0
+89;Arman Tsarukyan vs Mateusz Gamrot;UFC Fight Night 227;lightweight;5;decision;0
+90;Islam Makhachev vs Alexander Volkanovski;UFC 284;lightweight;5;decision;0
+91;Sean OMalley vs Petr Yan;UFC 280;bantamweight;3;decision;0
+92;Cory Sandhagen vs TJ Dillashaw;UFC Fight Night 200;bantamweight;5;decision;0
+93;Henry Cejudo vs Dominick Cruz;UFC 249;bantamweight;5;KO/TKO;2
+94;Jose Aldo vs Frankie Edgar;UFC 156;featherweight;5;KO/TKO;2
+95;Frankie Edgar vs Gray Maynard;UFC 136;lightweight;5;KO/TKO;4
+96;Conor McGregor vs Nate Diaz;UFC 196;welterweight;5;submission;2
+97;Nate Diaz vs Anthony Pettis;UFC 241;welterweight;3;decision;0
+98;Jorge Masvidal vs Ben Askren;UFC 239;welterweight;5;KO/TKO;1
+99;Stephen Thompson vs Vicente Luque;UFC Fight Night 196;welterweight;5;submission;2
+100;Kamaru Usman vs Jorge Masvidal;UFC 251;welterweight;5;KO/TKO;2
+101;Tyron Woodley vs Robbie Lawler;UFC 201;welterweight;5;KO/TKO;1
+102;Michael Chandler vs Tony Ferguson;UFC 274;lightweight;3;KO/TKO;2
+103;Justin Gaethje vs Charles Oliveira;UFC 274;lightweight;5;submission;1
+104;Alex Pereira vs Israel Adesanya;UFC 287;middleweight;5;KO/TKO;2
+105;"Denzel Freeman VS
+Marek Bujlo";UFC Fight Night: Tsarukyan vs. Hooker;heavyweight;3;U-DEC;0
+106;Nurullo Aliev VS Shem Rock;UFC Fight Night: Tsarukyan vs. Hooker;lightweight;3;U-DEC;0
+107;Ismail Naurdiev VS Ryan Loder;UFC Fight Night: Tsarukyan vs. Hooker;middleweight;3;KO/TKO;1
+108;Aleksandre Topuria VS Bekzat Almakhan;UFC Fight Night: Tsarukyan vs. Hooker;Bantamweight;3;U-DEC;0
+109;Abdul Rakhman Yakhyaev VS Rafael Cerqueira;UFC Fight Night: Tsarukyan vs. Hooker;Light Heavyweight;3;Submission;0
+110;Asu Almabayev VS Alex Perez;UFC Fight Night: Tsarukyan vs. Hooker;Flyweight;3;Submission;0
+111;Nicolas Dalby VS Saygid Izagakhmaev;UFC Fight Night: Tsarukyan vs. Hooker;Welterweight;3;Decision;0
+112;Bogdan Grad VS Luke Riley;UFC Fight Night: Tsarukyan vs. Hooker;Featherweight;3;KO/TKO;2
+113;Arman Tsarukyan VS Dan Hooker;UFC Fight Night: Tsarukyan vs. Hooker;Lightweight;3;Submission;2
+114;Tagir Ulanbekov VS Kyoji Horiguchi;UFC Fight Night: Tsarukyan vs. Hooker;Flyweight;3;Submission;0
+115;Waldo Cortes Acosta VS Shamil Gaziev;UFC Fight Night: Tsarukyan vs. Hooker;Heavyweight;3;KO/TKO;1
+116;Jack Hermansson VS Myktybek Orolbai;UFC Fight Night: Tsarukyan vs. Hooker;Welterweight;3;KO/TKO;1
+117;Volkan Oezdemir VS Alonzo Menifield;UFC Fight Night: Tsarukyan vs. Hooker;Light Heavyweight;3;KO/TKO;1
+118;Belal Muhammad VS Ian Machado Garry;UFC Fight Night: Tsarukyan vs. Hooker;Welterweight;3;Decision;0
+119;Diego Sanchez VS Glue Guida;UFC - TUF 9 finale;Lightweight;3;Decision;0
+120;Gilbert Berns VS Hamzat Chimaev;UFC 273;Welterweight;3;Decision;0
+121;Jon Jones VS Alexander Gustafsson;UFC 165;Light Heavyweight;5;Decision;0
+122;Kab Swanson VS Choi Tu Ho;UFC 206;Featherweight;3;Decision;0
+123;Glover Teixeira VS Jiri Prochazka;UFC 275;Light Heavyweight;5;Submission;0
+124;Robbie Lawler VS Rory Macdonald;UFC 189;Welterweight;5;Decision;0

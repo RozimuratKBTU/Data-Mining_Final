@@ -1,0 +1,249 @@
+fight_id;fighter_name;oponent_name;age;weight_class;reaction_type;reaction_volume;is_underdog;activity_change;tempo_change;risk;strikes_landed;strikes_received;significant_strikes;control_time_sec;win
+1;Adesanya;Romero;30;middleweight;negative;1;0;0;0;1;132;40;48;0;1
+1;Romero;Adesanya;42;middleweight;negative;1;1;0;0;0;89;48;40;0;0
+2;Conor Mcgregor;Jose Aldo;27;lightweight;positive;3;1;0;0;1;5;1;5;0;1
+2;Jose Aldo;Conor Mcgregor;29;lightweight;negative;3;0;1;1;1;1;5;1;0;0
+3;Conor McGregor;Nate Diaz;27;welterweight;positive;3;0;1;1;1;164;166;109;0;1
+3;Nate Diaz;Conor McGregor;30;welterweight;positive;3;1;0;0;0;166;164;107;0;0
+4;Anthony Johnson;Glover Teixeira;32;light heavyweight;neutral;1;0;0;0;0;9;1;8;0;1
+4;Glover Teixeira;Anthony Johnson;36;light heavyweight;neutral;1;1;0;0;0;1;9;1;0;0
+5;Donald Cerrone;Rick Story;33;welterweight;positive;1;0;0;0;0;70;65;55;0;1
+5;Rick Story;Donald Cerrone;31;welterweight;positive;1;1;0;0;0;65;70;48;0;0
+6;Hyun Gyu Lim;Mike Perry;31;welterweight;positive;2;0;0;0;1;3;8;3;0;0
+6;Mike Perry;Hyun Gyu Lim;24;welterweight;positive;2;1;0;0;1;8;3;8;0;1
+7;Tim Means;Sabah Homasi;32;welterweight;neutral;1;0;0;0;0;14;6;11;0;1
+7;Sabah Homasi;Tim Means;27;welterweight;positive;1;1;0;1;0;6;14;5;0;0
+8;Brian Kelleher;Iuri Alcântara;30;bantamweight;neutral;1;1;0;0;0;14;7;11;92;1
+8;Iuri Alcântara;Brian Kelleher;35;bantamweight;positive;3;0;0;0;1;7;14;6;0;0
+9;Matthew Lopez;Johnny Eduardo;30;bantamweight;neutral;1;1;0;0;0;24;18;19;184;1
+9;Johnny Eduardo;Matthew Lopez;38;bantamweight;positive;2;0;0;0;1;18;24;15;0;0
+10;Antônio Carlos Júnior;Eric Spicely;28;middleweight;positive;2;0;0;0;0;63;42;48;214;1
+10;Eric Spicely;Antônio Carlos Júnior;30;middleweight;positive;1;1;0;0;0;42;63;31;96;0
+11;Raphael Assunção;Marlon Moraes;34;bantamweight;neutral;0;1;0;0;0;51;36;39;248;1
+11;Marlon Moraes;Raphael Assunção;29;bantamweight;neutral;0;0;0;0;0;36;51;28;0;0
+12;Yancy Medeiros;Erick Silva;30;welterweight;positive;2;1;0;0;0;45;36;39;0;1
+12;Erick Silva;Yancy Medeiros;32;welterweight;negative;1;0;0;0;1;36;45;31;44;0
+13;Paulo Costa;Oluwale Bamgbose;26;middleweight;positive;3;0;1;1;0;21;7;21;0;1
+13;Oluwale Bamgbose;Paulo Costa;29;middleweight;negative;1;1;0;0;1;7;21;7;0;0
+14;Vitor Belfort;Nate Marquardt;40;middleweight;positive;3;0;1;1;1;46;28;34;20;1
+14;Nate Marquardt;Vitor Belfort;37;middleweight;neutral;1;1;1;0;0;28;46;16;35;0
+15;Cláudia Gadelha;Karolina Kowalkiewicz;28;strawweight;neutral;0;0;1;0;0;8;12;8;20;0
+15;Karolina Kowalkiewicz;Cláudia Gadelha;31;strawweight;positive;1;1;0;0;0;12;8;9;0;1
+16;Max Holloway;José Aldo;25;featherweight;positive;2;1;1;0;1;128;87;104;0;1
+16;José Aldo;Max Holloway;30;featherweight;positive;3;0;0;0;0;87;128;55;0;0
+17;Leon Edwards;Colby Covington;32;welterweight;positive;2;0;1;1;0;95;72;54;180;1
+17;Colby Covington;Leon Edwards;35;welterweight;negative;1;1;0;0;0;68;95;40;118;0
+18;Alex Pereira;Jiri Prochazka;36;light heavyweight;positive;3;0;1;1;1;88;76;62;0;1
+18;Jiri Prochazka;Alex Pereira;31;light heavyweight;positive;3;1;1;1;1;84;88;58;0;0
+19;Sean Strickland;Dricus Du Plessis;32;middleweight;negative;1;0;0;0;0;110;118;72;40;0
+19;Dricus Du Plessis;Sean Strickland;29;middleweight;positive;2;1;1;1;1;118;110;80;30;1
+20;Ilia Topuria;Alexander Volkanovski;27;featherweight;positive;3;1;1;1;1;76;61;55;20;1
+20;Alexander Volkanovski;Ilia Topuria;35;featherweight;neutral;2;0;0;0;0;61;76;39;35;0
+21;Jon Jones;Ciryl Gane;36;heavyweight;positive;3;0;1;1;0;34;12;18;240;1
+21;Ciryl Gane;Jon Jones;33;heavyweight;negative;1;1;0;0;0;12;34;6;5;0
+22;Alex Pereira;Jamahal Hill;35;light heavyweight;positive;3;0;1;1;1;52;29;41;0;1
+22;Jamahal Hill;Alex Pereira;30;light heavyweight;neutral;2;1;0;0;0;29;52;21;0;0
+23;Max Holloway;Justin Gaethje;34;lightweight;positive;3;0;1;1;1;155;143;110;0;1
+23;Justin Gaethje;Max Holloway;31;lightweight;positive;3;1;1;1;1;143;155;102;0;0
+24;Charles Oliveira;Beneil Dariush;35;lightweight;positive;2;0;1;1;1;31;18;19;95;1
+24;Beneil Dariush;Charles Oliveira;33;lightweight;neutral;1;1;0;0;0;18;31;9;40;0
+25;Dustin Poirier;Michael Chandler;31;lightweight;positive;3;0;1;1;1;79;64;52;15;1
+25;Michael Chandler;Dustin Poirier;36;lightweight;positive;2;1;1;1;1;64;79;41;55;0
+26;Sean OMalley;Aljamain Sterling;30;bantamweight;positive;3;1;1;1;1;56;43;38;25;1
+26;Aljamain Sterling;Sean OMalley;33;bantamweight;negative;2;0;0;0;0;43;56;21;180;0
+27;Israel Adesanya;Alex Pereira;34;middleweight;positive;3;0;1;1;1;84;71;58;10;1
+27;Alex Pereira;Israel Adesanya;31;middleweight;positive;3;1;1;1;1;71;84;49;5;0
+28;Francis Ngannou;Stipe Miocic;32;heavyweight;positive;3;0;1;1;1;44;12;38;0;1
+28;Stipe Miocic;Francis Ngannou;29;heavyweight;negative;1;1;0;0;0;12;44;6;15;0
+29;Khabib Nurmagomedov;Conor McGregor;31;lightweight;positive;3;0;1;1;0;38;21;14;240;1
+29;Conor McGregor;Khabib Nurmagomedov;28;lightweight;negative;2;1;0;0;1;21;38;11;35;0
+30;Georges St-Pierre;Michael Bisping;34;middleweight;positive;2;0;1;0;0;42;28;21;190;1
+30;Michael Bisping;Georges St-Pierre;31;middleweight;neutral;1;1;0;0;0;28;42;14;20;0
+31;Anderson Silva;Chael Sonnen;35;middleweight;negative;1;1;0;0;0;22;48;11;25;
+31;Chael Sonnen;Anderson Silva;29;middleweight;negative;1;1;0;0;0;22;48;11;25;0
+32;Robbie Lawler;Rory MacDonald;32;welterweight;positive;3;0;1;1;1;48;22;31;180;1
+32;Rory MacDonald;Robbie Lawler;36;welterweight;positive;3;0;1;1;1;152;134;96;0;0
+33;Daniel Cormier;Stipe Miocic;31;heavyweight;positive;3;1;1;1;1;134;152;88;0;1
+33;Stipe Miocic;Daniel Cormier;34;heavyweight;positive;3;0;1;1;1;66;42;38;180;0
+34;Jose Aldo;Conor McGregor;35;featherweight;negative;1;1;0;0;0;42;66;21;25;0
+34;Conor McGregor;Jose Aldo;32;featherweight;negative;1;0;0;0;0;9;13;4;10;1
+35;Henry Cejudo;Demetrious Johnson;30;flyweight;positive;3;1;1;1;1;13;9;11;0;1
+35;Demetrious Johnson;Henry Cejudo;28;flyweight;neutral;2;0;0;0;0;28;32;14;40;0
+36;Valentina Shevchenko;Alexa Grasso;31;women_flyweight;positive;3;1;1;1;1;32;28;21;95;1
+36;Alexa Grasso;Valentina Shevchenko;29;women_flyweight;positive;3;0;1;1;1;148;134;90;0;0
+37;Weili Zhang;Joanna Jedrzejczyk;32;women_strawweight;positive;3;1;1;1;1;134;148;84;0;1
+37;Joanna Jedrzejczyk;Weili Zhang;28;women_strawweight;positive;3;0;1;1;1;91;86;63;10;0
+38;Israel Adesanya;Kelvin Gastelum;36;middleweight;positive;3;1;1;1;1;86;91;58;5;1
+38;Kelvin Gastelum;Israel Adesanya;33;middleweight;positive;2;0;1;0;0;44;36;21;108;0
+39;Leon Edwards;Kamaru Usman;34;welterweight;neutral;1;1;0;0;0;36;44;18;20;1
+39;Kamaru Usman;Leon Edwards;27;welterweight;positive;3;0;1;1;1;132;84;96;30;0
+40;Alexander Volkanovski;Max Holloway;32;featherweight;negative;2;1;0;0;0;84;132;52;20;1
+40;Max Holloway;Alexander Volkanovski;34;featherweight;positive;3;0;1;1;1;46;28;34;20;0
+41;Chris Weidman;Anderson Silva;36;middleweight;negative;1;1;0;0;0;28;46;16;35;1
+41;Anderson Silva;Chris Weidman;29;middleweight;positive;3;0;1;1;1;61;34;48;0;0
+42;Brock Lesnar;Randy Couture;35;heavyweight;negative;1;1;0;0;0;34;61;21;15;1
+42;Randy Couture;Brock Lesnar;36;heavyweight;positive;3;0;1;1;1;75;61;52;0;0
+43;TJ Dillashaw;Cody Garbrandt;31;bantamweight;positive;2;1;1;1;1;61;75;41;0;1
+43;Cody Garbrandt;TJ Dillashaw;33;bantamweight;positive;3;0;1;1;1;84;71;58;10;0
+44;Conor McGregor;Nate Diaz;29;welterweight;positive;3;1;1;1;1;71;84;49;5;1
+44;Nate Diaz;Conor McGregor;31;welterweight;positive;3;0;1;1;1;155;143;110;0;0
+45;Nate Diaz;Jorge Masvidal;35;welterweight;positive;3;1;1;1;1;143;155;102;0;0
+45;Jorge Masvidal;Nate Diaz;28;welterweight;positive;3;0;1;1;1;48;22;31;113;1
+46;Jan Blachowicz;Israel Adesanya;33;light heavyweight;negative;1;1;0;0;0;22;48;11;25;1
+46;Israel Adesanya;Jan Blachowicz;32;light heavyweight;positive;3;0;1;1;1;62;41;48;0;0
+47;Aljamain Sterling;Petr Yan;29;bantamweight;negative;1;1;0;0;0;41;62;19;10;1
+47;Petr Yan;Aljamain Sterling;38;bantamweight;positive;3;0;1;1;1;56;43;38;25;0
+48;Colby Covington;Kamaru Usman;30;welterweight;negative;2;1;0;0;0;43;56;21;90;0
+48;Kamaru Usman;Colby Covington;34;welterweight;positive;3;0;1;1;1;118;110;80;30;1
+49;Justin Gaethje;Tony Ferguson;31;lightweight;negative;1;1;0;0;0;110;118;72;40;1
+49;Tony Ferguson;Justin Gaethje;35;lightweight;negative;1;1;0;0;0;39;61;21;10;0
+50;Robert Whittaker;Yoel Romero;33;middleweight;positive;3;0;1;1;1;88;76;64;0;1
+50;Yoel Romero;Robert Whittaker;30;middleweight;negative;1;1;0;0;0;76;88;48;0;0
+51;Michael Bisping;Luke Rockhold;28;middleweight;positive;3;0;1;1;1;54;41;32;15;1
+51;Luke Rockhold;Michael Bisping;31;middleweight;negative;1;1;0;0;0;41;54;19;10;0
+52;Demetrious Johnson;Henry Cejudo;29;flyweight;positive;3;0;1;1;1;68;42;44;180;1
+52;Henry Cejudo;Demetrious Johnson;28;flyweight;negative;1;1;0;0;0;42;68;21;30;0
+53;Stipe Miocic;Daniel Cormier;36;heavyweight;positive;3;0;1;1;1;71;29;52;120;1
+53;Daniel Cormier;Stipe Miocic;33;heavyweight;negative;1;1;0;0;0;29;71;18;20;0
+54;Max Holloway;Frankie Edgar;34;featherweight;positive;3;0;1;1;1;56;28;41;25;1
+54;Frankie Edgar;Max Holloway;27;featherweight;negative;1;1;0;0;0;28;56;16;10;0
+55;Sean OMalley;Marlon Vera;32;bantamweight;positive;3;0;1;1;1;62;41;48;0;0
+55;Marlon Vera;Sean OMalley;34;bantamweight;negative;1;1;0;0;0;41;62;19;10;1
+56;Leon Edwards;Nate Diaz;36;welterweight;positive;3;0;1;1;1;95;72;54;180;
+56;Nate Diaz;Leon Edwards;29;welterweight;negative;1;1;0;0;0;72;95;40;220;0
+57;Kamaru Usman;Gilbert Burns;35;welterweight;positive;3;0;1;1;1;52;38;41;0;1
+57;Gilbert Burns;Kamaru Usman;36;welterweight;negative;1;1;0;0;0;38;52;21;10;0
+58;Israel Adesanya;Robert Whittaker;31;middleweight;positive;3;0;1;1;1;84;71;58;10;1
+58;Robert Whittaker;Israel Adesanya;33;middleweight;negative;1;1;0;0;0;71;84;49;5;0
+59;Dricus Du Plessis;Sean Strickland;29;middleweight;positive;3;0;1;1;1;118;110;80;30;1
+59;Sean Strickland;Dricus Du Plessis;31;middleweight;negative;1;1;0;0;0;110;118;72;40;0
+60;Alex Volkanovski;Yair Rodriguez;35;featherweight;positive;3;0;1;1;1;66;42;38;180;1
+60;Yair Rodriguez;Alex Volkanovski;28;featherweight;negative;1;1;0;0;0;42;66;21;25;0
+61;Brandon Moreno;Deiveson Figueiredo;33;flyweight;positive;3;0;1;1;1;48;22;31;180;1
+61;Deiveson Figueiredo;Brandon Moreno;32;flyweight;negative;1;1;0;0;0;22;48;11;25;0
+62;Aljamain Sterling;TJ Dillashaw;29;bantamweight;positive;3;0;1;1;1;56;29;41;0;1
+62;TJ Dillashaw;Aljamain Sterling;38;bantamweight;negative;1;1;0;0;0;29;56;21;15;0
+63;Islam Makhachev;Charles Oliveira;30;lightweight;positive;3;0;1;1;1;132;84;96;30;1
+63;Charles Oliveira;Islam Makhachev;34;lightweight;negative;2;1;0;0;0;84;132;52;20;0
+64;Sean OMalley;Petr Yan;31;bantamweight;positive;3;0;1;1;1;75;61;52;0;1
+64;Petr Yan;Sean OMalley;35;bantamweight;positive;2;1;1;1;1;61;75;41;0;0
+65;Belal Muhammad;Gilbert Burns;33;welterweight;positive;3;0;1;1;1;44;36;21;190;1
+65;Gilbert Burns;Belal Muhammad;30;welterweight;neutral;1;1;0;0;0;36;44;18;20;0
+66;Tom Aspinall;Sergei Pavlovich;28;heavyweight;positive;3;0;1;1;1;155;143;110;0;1
+66;Sergei Pavlovich;Tom Aspinall;31;heavyweight;positive;3;1;1;1;1;143;155;102;0;0
+67;Jon Jones;Alexander Gustafsson;29;light heavyweight;positive;3;0;1;1;1;61;34;48;0;1
+67;Alexander Gustafsson;Jon Jones;29;light heavyweight;negative;1;1;0;0;0;34;61;21;15;0
+68;Max Holloway;Calvin Kattar;35;featherweight;positive;3;0;1;1;1;75;61;52;0;1
+68;Calvin Kattar;Max Holloway;32;featherweight;negative;1;1;0;0;0;61;75;41;0;0
+69;Justin Gaethje;Michael Johnson;34;lightweight;positive;3;0;1;1;1;62;41;48;0;1
+69;Michael Johnson;Justin Gaethje;31;lightweight;negative;1;1;0;0;0;41;62;19;10;0
+70;Robert Whittaker;Jared Cannonier;28;middleweight;positive;3;0;1;1;1;46;28;34;20;1
+70;Jared Cannonier;Robert Whittaker;36;middleweight;negative;1;1;0;0;0;28;46;16;35;0
+71;Paulo Costa;Yoel Romero;31;middleweight;positive;3;0;1;1;1;61;34;48;0;1
+71;Yoel Romero;Paulo Costa;34;middleweight;negative;1;1;0;0;0;34;61;21;15;0
+72;Dan Hooker;Paul Felder;29;lightweight;positive;3;0;1;1;1;56;43;38;25;1
+72;Paul Felder;Dan Hooker;27;lightweight;negative;2;1;0;0;0;43;56;21;180;0
+73;Kevin Holland;Ronaldo Souza;33;middleweight;positive;3;0;1;1;1;44;12;38;0;1
+73;Ronaldo Souza;Kevin Holland;30;middleweight;negative;1;1;0;0;0;12;44;6;15;0
+74;Glover Teixeira;Jan Blachowicz;28;light heavyweight;negative;2;1;0;0;1;21;38;11;35;1
+74;Jan Blachowicz;Glover Teixeira;42;light heavyweight;positive;2;0;1;0;0;42;28;21;190;0
+75;Jiri Prochazka;Glover Teixeira;29;light heavyweight;neutral;1;1;0;0;0;28;42;14;20;1
+75;Glover Teixeira;Jiri Prochazka;36;light heavyweight;positive;3;0;1;1;1;56;43;38;25;0
+76;Stipe Miocic;Junior Dos Santos;33;heavyweight;negative;2;1;0;0;0;43;56;21;180;1
+76;Junior Dos Santos;Stipe Miocic;30;heavyweight;positive;3;0;1;1;1;118;110;80;30;0
+77;Cain Velasquez;Brock Lesnar;31;heavyweight;negative;1;1;0;0;0;110;118;72;40;1
+77;Brock Lesnar;Cain Velasquez;34;heavyweight;negative;1;1;0;0;0;110;118;72;40;0
+78;Ronda Rousey;Holly Holm;28;women_bantamweight;negative;2;0;0;0;0;18;42;11;10;0
+78;Holly Holm;Ronda Rousey;35;women_bantamweight;positive;3;1;1;1;1;42;18;33;0;1
+79;Amanda Nunes;Cris Cyborg;26;women_featherweight;positive;3;0;1;1;1;52;18;41;0;1
+79;Cris Cyborg;Amanda Nunes;29;women_featherweight;negative;1;1;0;0;0;18;52;9;10;0
+80;Joanna Jedrzejczyk;Rose Namajunas;31;women_strawweight;negative;2;0;0;0;0;28;66;18;15;0
+80;Rose Namajunas;Joanna Jedrzejczyk;27;women_strawweight;positive;3;1;1;1;1;66;28;48;0;1
+81;Rose Namajunas;Zhang Weili;29;women_strawweight;positive;3;0;1;1;1;75;61;52;0;1
+81;Zhang Weili;Rose Namajunas;30;women_strawweight;negative;1;1;0;0;0;61;75;41;0;0
+82;Zhang Weili;Carla Esparza;28;women_strawweight;positive;3;0;1;1;1;44;12;38;0;1
+82;Carla Esparza;Zhang Weili;34;women_strawweight;negative;1;1;0;0;0;12;44;6;15;0
+83;Valentina Shevchenko;Taila Santos;35;women_flyweight;positive;3;0;1;1;1;84;71;58;10;1
+83;Taila Santos;Valentina Shevchenko;28;women_flyweight;negative;1;1;0;0;0;71;84;49;5;0
+84;Israel Adesanya;Marvin Vettori;32;middleweight;positive;3;0;1;1;1;155;143;110;0;1
+84;Marvin Vettori;Israel Adesanya;31;middleweight;positive;3;1;1;1;1;143;155;102;0;0
+85;Dustin Poirier;Dan Hooker;32;lightweight;positive;3;0;1;1;1;75;61;52;0;1
+85;Dan Hooker;Dustin Poirier;34;lightweight;negative;1;1;0;0;0;61;75;41;0;0
+86;Justin Gaethje;Edson Barboza;31;lightweight;positive;3;0;1;1;1;62;41;48;0;1
+86;Edson Barboza;Justin Gaethje;32;lightweight;negative;1;1;0;0;0;41;62;19;10;0
+87;Tony Ferguson;Rafael dos Anjos;31;lightweight;positive;3;0;1;1;1;46;28;34;20;1
+87;Rafael dos Anjos;Tony Ferguson;33;lightweight;negative;1;1;0;0;0;28;46;16;35;0
+88;Beneil Dariush;Mateusz Gamrot;36;lightweight;positive;3;0;1;1;1;61;34;48;0;1
+88;Mateusz Gamrot;Beneil Dariush;29;lightweight;negative;1;1;0;0;0;34;61;21;15;0
+89;Arman Tsarukyan;Mateusz Gamrot;31;lightweight;positive;3;0;1;1;1;38;21;14;240;0
+89;Mateusz Gamrot;Arman Tsarukyan;27;lightweight;negative;2;1;0;0;1;21;38;11;35;1
+90;Islam Makhachev;Alexander Volkanovski;29;lightweight;positive;3;0;1;1;1;56;43;38;25;1
+90;Alexander Volkanovski;Islam Makhachev;30;lightweight;negative;2;1;0;0;0;43;56;21;180;0
+91;Sean OMalley;Petr Yan;28;bantamweight;positive;3;0;1;1;1;84;71;58;10;1
+91;Petr Yan;Sean OMalley;30;bantamweight;negative;1;1;0;0;0;71;84;49;5;0
+92;Cory Sandhagen;TJ Dillashaw;29;bantamweight;positive;3;0;1;1;1;62;41;48;0;0
+92;TJ Dillashaw;Cory Sandhagen;27;bantamweight;negative;1;1;0;0;0;41;62;19;10;1
+93;Henry Cejudo;Dominick Cruz;33;bantamweight;positive;3;0;1;1;1;56;29;41;0;1
+93;Dominick Cruz;Henry Cejudo;32;bantamweight;negative;1;1;0;0;0;29;56;21;15;0
+94;Jose Aldo;Frankie Edgar;35;featherweight;positive;3;0;1;1;1;118;110;80;30;1
+94;Frankie Edgar;Jose Aldo;30;featherweight;negative;1;1;0;0;0;110;118;72;40;0
+95;Frankie Edgar;Gray Maynard;33;lightweight;positive;3;0;1;1;1;44;12;38;0;1
+95;Gray Maynard;Frankie Edgar;28;lightweight;negative;1;1;0;0;0;12;44;6;15;0
+96;Conor McGregor;Nate Diaz;31;welterweight;positive;3;0;1;1;1;38;21;14;240;0
+96;Nate Diaz;Conor McGregor;28;welterweight;negative;2;1;0;0;1;21;38;11;35;1
+97;Nate Diaz;Anthony Pettis;31;welterweight;positive;3;0;1;1;1;56;43;38;25;1
+97;Anthony Pettis;Nate Diaz;34;welterweight;negative;2;1;0;0;0;43;56;21;180;0
+98;Jorge Masvidal;Ben Askren;33;welterweight;positive;3;0;1;1;1;44;12;38;0;1
+98;Ben Askren;Jorge Masvidal;36;welterweight;negative;1;1;0;0;0;12;44;6;15;0
+99;Stephen Thompson;Vicente Luque;32;welterweight;positive;3;0;1;1;1;62;41;48;0;0
+99;Vicente Luque;Stephen Thompson;31;welterweight;negative;1;1;0;0;0;41;62;19;10;1
+100;Kamaru Usman;Jorge Masvidal;29;welterweight;positive;3;0;1;1;1;56;43;38;25;1
+100;Jorge Masvidal;Kamaru Usman;30;welterweight;negative;2;1;0;0;0;43;56;21;180;0
+101;Tyron Woodley;Robbie Lawler;35;welterweight;positive;3;0;1;1;1;44;12;38;0;1
+101;Robbie Lawler;Tyron Woodley;34;welterweight;negative;1;1;0;0;0;12;44;6;15;0
+102;Michael Chandler;Tony Ferguson;36;lightweight;positive;3;0;1;1;1;56;43;38;25;1
+102;Tony Ferguson;Michael Chandler;33;lightweight;negative;2;1;0;0;0;43;56;21;180;0
+103;Justin Gaethje;Charles Oliveira;36;lightweight;positive;3;0;1;1;1;38;21;14;240;0
+103;Charles Oliveira;Justin Gaethje;34;lightweight;negative;2;1;0;0;1;21;38;11;35;1
+104;Alex Pereira;Israel Adesanya;29;middleweight;positive;3;0;1;1;1;56;43;38;25;1
+104;Israel Adesanya;Alex Pereira;35;middleweight;negative;2;1;0;0;0;43;56;21;180;0
+105;Denzel Freeman;Marek Bujlo;32;heavyweight;positive;2;0;0;0;0;79;49;31;0;1
+105;Marek Bujlo;Denzel Freeman;30;heavyweight;negative;2;1;1;1;1;80;31;49;0;0
+106;Nurullo Aliev;Shem Rock;29;lightweight;positive;3;0;0;0;0;64;38;41;20;1
+106;Shem Rock;Nurullo Aliev;30;lightweight;positive;3;1;1;1;0;38;64;19;10;0
+107;Ismail Naurdiev;Ryan Loder;27;middleweight;positive;3;0;1;1;1;58;44;26;90;1
+107;Ryan Loder;Ismail Naurdiev;32;middleweight;positive;3;1;0;0;0;44;58;21;25;0
+108;Aleksandre Topuria;Bekzat Almakhan;27;bantamweight;positive;2;0;0;0;1;52;31;38;0;1
+108;Bekzat Almakhan;Aleksandre Topuria;26;bantamweight;positive;2;1;1;1;1;31;52;18;5;0
+109;Abdul Rakhman Yakhyaev;Rafael Cerqueira;26;light heavyweight;positive;2;0;1;1;1;47;29;22;120;1
+109;Rafael Cerqueira;Abdul Rakhman Yakhyaev;31;light heavyweight;positive;2;1;0;0;0;29;47;14;30;0
+110;Asu Almabayev;Alex Perez;29;flyweight;positive;3;0;1;0;1;71;54;39;15;1
+110;Alex Perez;Asu Almabayev;31;flyweight;negative;0;1;0;0;1;54;71;26;20;0
+111;Nicolas Dalby;Saygid Izagakhmaev;38;welterweight;negative;1;0;1;1;1;66;49;31;85;1
+111;Saygid Izagakhmaev;Nicolas Dalby;30;welterweight;negative;1;1;1;1;1;49;66;22;30;0
+112;Luke Riley;Bogdan Grad;26;featherweight;positive;1;0;0;0;1;59;41;34;0;1
+112;Bogdan Grad;Luke Riley;30;featherweight;neutral;1;1;0;0;0;41;59;19;10;0
+113;Arman Tsarukyan;Dan Hooker;29;lightweight;positive;2;0;1;0;0;84;61;52;0;1
+113;Dan Hooker;Arman Tsarukyan;35;lightweight;neutral;1;1;0;0;0;61;84;28;20;0
+114;Kyoji Horiguchi;Tagir Ulanbekov;35;flyweight;positive;1;0;0;0;1;55;37;26;95;1
+114;Tagir Ulanbekov;Kyoji Horiguchi;34;flyweight;neutral;1;1;0;0;0;37;55;18;35;0
+115;Waldo Cortes Acosta;Shamil Gaziev;34;heavyweight;neutral;1;0;0;0;1;62;39;48;0;1
+115;Shamil Gaziev;Waldo Cortes Acosta;35;heavyweight;positive;1;1;0;0;0;39;62;21;10;0
+116;Myktybek Orolbai;Jack Hermansson;27;welterweight;positive;2;0;1;1;1;74;46;55;0;1
+116;Jack Hermansson;Myktybek Orolbai;37;welterweight;neutral;0;1;0;0;0;46;74;27;15;0
+117;Volkan Oezdemir;Alonzo Menifield;36;light heavyweight;positive;2;0;1;1;1;68;44;51;0;1
+117;Alonzo Menifield;Volkan Oezdemir;36;light heavyweight;neutral;1;1;0;0;0;44;68;24;15;0
+118;Ian Machado Garry;Belal Muhammad;28;welterweight;negative;1;0;0;0;0;91;63;66;0;1
+118;Belal Muhammad;Ian Machado Garry;37;welterweight;positive;3;1;1;1;1;63;91;33;20;0
+119;Diego Sanchez;Glue Guida;37;lightweight;positive;3;0;1;1;1;78;52;57;0;1
+119;Glue Guida;Diego Sanchez;37;lightweight;neutral;1;1;1;1;1;52;78;29;15;0
+120;Khamzat Chimaev;Gilbert Berns;28;welterweight;positive;3;0;1;1;1;83;58;61;0;1
+120;Gilbert Berns;Khamzat Chimaev;35;welterweight;neutral;1;1;1;1;1;58;83;32;20;0
+121;Jon Jones;Alexander Gustafsson;32;light heavyweight;positive;3;0;1;1;0;96;72;68;0;1
+121;Alexander Gustafsson;Jon Jones;31;light heavyweight;positive;3;1;1;1;0;72;96;41;25;0
+122;Kab Swanson;Choi Tu Ho;33;featherweight;positive;1;0;0;0;0;88;64;63;0;1
+122;Choi Tu Ho;Kab Swanson;25;featherweight;neutral;1;1;0;0;0;64;88;34;20;0
+123;Jiri Prochazka;Glover Teixeira;29;light heavyweight;positive;3;0;1;1;1;102;79;74;0;1
+123;Glover Teixeira;Jiri Prochazka;42;light heavyweight;positive;2;1;0;1;1;79;102;39;30;0
+124;Robbie Lawler;Rory Macdonald;33;welterweight;positive;2;0;0;0;0;85;60;62;0;1
+124;Rory Macdonald;Robbie Lawler;26;welterweight;positive;2;1;0;0;0;60;85;31;20;0
